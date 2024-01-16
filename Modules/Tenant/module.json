@@ -1,0 +1,12 @@
+{
+    "name": "Tenant",
+    "alias": "tenant",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Tenant\\app\\Providers\\TenantServiceProvider",
+        "Modules\\Tenant\\Providers\\Filament\\AppPanelProvider"
+    ],
+    "files": []
+}
